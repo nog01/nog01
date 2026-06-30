@@ -1,3 +1,2 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nog01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nog01&layout=compact&theme=tokyonight)
+<img height="400em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nog01&layout=donut&theme=tokyonight&cache_seconds=0"/>
